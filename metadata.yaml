@@ -1,0 +1,37 @@
+_repo: Les-Rois-Fr-res-de-Napol-on-IerDocuments-in-dits-relatifs-au-premier-Empire_30604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Casse, Albert
+    alias: Casse, Albert Du
+    birthdate: 1813
+    deathdate: 1893
+    gutenberg_agent_id: '34707'
+    url: http://www.gutenberg.org/2009/agents/34707
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Emmanuel_Albert,_Baron_Ducasse
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30604'
+  lccn: '04025613'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jérôme Bonaparte, King of Westphalia, 1784-1860'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Family'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcsh 'Joseph Bonaparte, King of Spain, 1768-1844'
+- !lcsh 'Louis Bonaparte, King of Holland, 1778-1846'
+- !lcsh 'Europe -- History -- 1789-1815'
+title: 'Les Rois Frères de Napoléon Ier
+
+  Documents inédits relatifs au premier Empire'
+url: http://www.gutenberg.org/ebooks/30604
