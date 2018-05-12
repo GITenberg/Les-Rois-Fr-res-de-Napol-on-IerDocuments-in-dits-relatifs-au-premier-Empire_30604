@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34707
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Emmanuel_Albert,_Baron_Ducasse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30604#Les-Rois-Fr-res-de-Napol-on-IerDocuments-in-dits-relatifs-au-premier-Empire
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-12-04'
 gutenberg_type: Text
